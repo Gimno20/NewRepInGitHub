@@ -1,4 +1,4 @@
 console.log("Hello world!");
-function Fun(){
-    console.log("Fun");
+function Tun(){
+    console.log("Tun");
 }
